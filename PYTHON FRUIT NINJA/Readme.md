@@ -1,3 +1,5 @@
+# FRUIT NINJA
+
 Fruit ninja game, also known as fruit-slicing game which is easy to play. Fruit ninja game is popular among children.
 
 The objective of this project is to build a fruit ninja game with python. This game is built with the help of pygame module and basic concept of python.
